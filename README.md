@@ -1,14 +1,13 @@
-# Specific Info about 'Causal Inference and Performance Analysis of Multivariate Time-Series'
-## Introduction
+# Specific Info about my project ('Causal Inference and Performance Analysis of Multivariate Time-Series')
 Causal inference has been consistently used as a tool for decision-making in various fields such as business investment, medical prescriptions, and urban infrastructure expansion.
 The network domain, with its large and complex systems, also offers significant potential for data-driven causal inference. Automated root cause analysis of anomalies is essential for network operation automation, but the wide range and frequency of these anomalies make it challenging to understand and explain them using only domain knowledge.
 Therefore, I aimed to apply LPCMCI to real multivariate time-serires data, where it is diffidult to assume fatihfulness and stationarity to check this algorithm can be used in causal inference in network domain.
 
-## Documents
+[Documents](https://github.com/Seong-Hoon-Park/LPCMCI_Apply_Proj/blob/6b4f609a46427cc084173d30a651545db258933d/Causal_Inference_with_LPCMCI_for_Multivariate_Time_series_and_Performance_Analysis.pdf)
 
+[Main Implementation](https://github.com/Seong-Hoon-Park/LPCMCI_Apply_Proj/blob/6b4f609a46427cc084173d30a651545db258933d/lpcmci_multivariate_time_series.ipynb)
 
-## Special thanks to
-Sangkyu Park in Network analytics Group, Samsung Electronics.
+Special thanks to Sangkyu Park in Network analytics Group, Samsung Electronics.
 
 # Tigramite – Causal inference for time series datasets
 ![logo](docs/_images/tigramite_logo_header.png)
